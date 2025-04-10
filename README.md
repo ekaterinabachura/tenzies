@@ -54,6 +54,8 @@ Key features:
 ```bash
 npm install
 
+---
+
 ## App Screenshots
 ![Tenzies Start](/images/tenzies-start.png)
 ![Tenzies Started](/images/tenzies-started.png)
